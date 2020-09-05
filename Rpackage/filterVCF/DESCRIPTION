@@ -1,0 +1,13 @@
+Package: filterVCF
+Type: Package
+Title: filterVCF
+Version: 0.1.0
+Author: Benjamin Laenen
+Maintainer: The package maintainer <benjamin.laenen@hotmail.com>
+Description: Filter Variant Call Format (VCF) file and compute population genomic
+License: GNU
+Encoding: UTF-8
+LazyData: true
+Imports: GenomicRanges, Biostrings, ffbase, R2HTML, parallel, vcfR, rtracklayer, R.utils, optparse, BSgenome, HelloRanges, mgsub, memuse, snow
+Depends: GenomicRanges, Biostrings, ffbase, R2HTML, parallel, vcfR, rtracklayer, R.utils, optparse, BSgenome, HelloRanges, mgsub, memuse, snow
+RoxygenNote: 6.1.1

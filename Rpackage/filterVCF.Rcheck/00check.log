@@ -1,0 +1,23 @@
+* using log directory ‘/Users/Benjamin/Dropbox/Script/genomic_scripts/Rpackage/filterVCF.Rcheck’
+* using R version 3.6.2 (2019-12-12)
+* using platform: x86_64-apple-darwin15.6.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘filterVCF/DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘filterVCF’ version ‘0.1.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... ERROR
+Namespace dependencies not required: 'IRanges', 'ape', 'bit', 'ff'
+
+Depends: includes the non-default packages:
+  'GenomicRanges', 'Biostrings', 'ffbase', 'R2HTML', 'parallel',
+  'vcfR', 'rtracklayer', 'R.utils', 'optparse', 'BSgenome',
+  'HelloRanges', 'mgsub', 'memuse', 'snow'
+Adding so many packages to the search path is excessive and importing
+selectively is preferable.
+
+See section ‘The DESCRIPTION file’ in the ‘Writing R Extensions’
+manual.
+* DONE
+Status: 1 ERROR

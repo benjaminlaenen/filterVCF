@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/Script/genomic_scripts/Rpackage/filterVCF",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
