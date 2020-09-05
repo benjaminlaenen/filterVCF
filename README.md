@@ -1,2 +1,2 @@
 # filterVCF
-Rpackage to filter Variant Call Files and do populations genomics analysis
+## Rpackage to filter Variant Call Files (VCF) and do population genomic analysis
